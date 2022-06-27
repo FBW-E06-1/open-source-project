@@ -7,3 +7,5 @@ This is a repository for my open source project
 - fix description
 - add new features
 - something something
+
+These changes are from my own repository
